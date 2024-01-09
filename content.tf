@@ -1,1 +1,1 @@
-resource "random_string" "ykkyp" { length = 10 }
+resource "random_string" "hrnsl" { length = 10 }
