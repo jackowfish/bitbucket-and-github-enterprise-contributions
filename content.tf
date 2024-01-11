@@ -1,1 +1,1 @@
-resource "random_string" "ftoiu" { length = 10 }
+resource "random_string" "ugvnf" { length = 10 }
