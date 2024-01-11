@@ -1,1 +1,1 @@
-resource "random_string" "ugvnf" { length = 10 }
+resource "random_string" "ihdkv" { length = 10 }
