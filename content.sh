@@ -1,2 +1,1 @@
 echo "osnts"
-echo "fmkgu"
