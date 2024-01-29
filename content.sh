@@ -1,1 +1,1 @@
-echo "dduqk"
+echo "dwarr"
