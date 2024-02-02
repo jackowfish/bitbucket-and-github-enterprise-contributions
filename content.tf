@@ -8,4 +8,4 @@ resource "random_string" "vmmlr" { length = 10 }
 resource "random_string" "skoow" { length = 10 }
 resource "random_string" "jqnfy" { length = 10 }
 resource "random_string" "ubiim" { length = 10 }
-resource "random_string" "eckst" { length = 10 }
+resource "random_string" "oxlqu" { length = 10 }
