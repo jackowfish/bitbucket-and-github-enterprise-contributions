@@ -25,4 +25,4 @@ resource "random_string" "ikjaj" { length = 10 }
 resource "random_string" "eqhnd" { length = 10 }
 resource "random_string" "ppwpo" { length = 10 }
 resource "random_string" "mvvlg" { length = 10 }
-resource "random_string" "tttgi" { length = 10 }
+resource "random_string" "itswk" { length = 10 }
