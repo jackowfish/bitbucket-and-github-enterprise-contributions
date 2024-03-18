@@ -17,3 +17,4 @@ resource "random_string" "akarg" { length = 10 }
 resource "random_string" "chnys" { length = 10 }
 resource "random_string" "xukks" { length = 10 }
 resource "random_string" "hpppc" { length = 10 }
+resource "random_string" "cucyn" { length = 10 }
