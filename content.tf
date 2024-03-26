@@ -3,4 +3,4 @@ resource "random_string" "rcakd" { length = 10 }
 resource "random_string" "aenhk" { length = 10 }
 resource "random_string" "unrsc" { length = 10 }
 resource "random_string" "erqpf" { length = 10 }
-resource "random_string" "adwec" { length = 10 }
+resource "random_string" "waokm" { length = 10 }
