@@ -6,4 +6,4 @@ resource "random_string" "erqpf" { length = 10 }
 resource "random_string" "waokm" { length = 10 }
 resource "random_string" "vmmlr" { length = 10 }
 resource "random_string" "skoow" { length = 10 }
-resource "random_string" "gocae" { length = 10 }
+resource "random_string" "lajxe" { length = 10 }
