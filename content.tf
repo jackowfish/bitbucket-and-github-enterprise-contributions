@@ -9,4 +9,4 @@ resource "random_string" "skoow" { length = 10 }
 resource "random_string" "uemgj" { length = 10 }
 resource "random_string" "qhcss" { length = 10 }
 resource "random_string" "kwvjd" { length = 10 }
-resource "random_string" "sgukr" { length = 10 }
+resource "random_string" "adjao" { length = 10 }
