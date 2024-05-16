@@ -7,4 +7,3 @@ resource "random_string" "waokm" { length = 10 }
 resource "random_string" "vmmlr" { length = 10 }
 resource "random_string" "skoow" { length = 10 }
 resource "random_string" "uemgj" { length = 10 }
-resource "random_string" "qhcss" { length = 10 }
