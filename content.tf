@@ -20,3 +20,4 @@ resource "random_string" "hpppc" { length = 10 }
 resource "random_string" "cucyn" { length = 10 }
 resource "random_string" "gfvib" { length = 10 }
 resource "random_string" "kxrgn" { length = 10 }
+resource "random_string" "dxccn" { length = 10 }
