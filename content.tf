@@ -10,4 +10,4 @@ resource "random_string" "jqnfy" { length = 10 }
 resource "random_string" "ubiim" { length = 10 }
 resource "random_string" "tpbmf" { length = 10 }
 resource "random_string" "xcmxd" { length = 10 }
-resource "random_string" "wifxk" { length = 10 }
+resource "random_string" "rpmpp" { length = 10 }
