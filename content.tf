@@ -11,4 +11,4 @@ resource "random_string" "ubiim" { length = 10 }
 resource "random_string" "tpbmf" { length = 10 }
 resource "random_string" "xcmxd" { length = 10 }
 resource "random_string" "cjddh" { length = 10 }
-resource "random_string" "uqvwv" { length = 10 }
+resource "random_string" "uasmr" { length = 10 }
