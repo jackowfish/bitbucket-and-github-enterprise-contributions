@@ -13,4 +13,4 @@ resource "random_string" "xcmxd" { length = 10 }
 resource "random_string" "otept" { length = 10 }
 resource "random_string" "sasfj" { length = 10 }
 resource "random_string" "jjkpg" { length = 10 }
-resource "random_string" "jvbey" { length = 10 }
+resource "random_string" "wxkco" { length = 10 }
