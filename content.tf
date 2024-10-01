@@ -14,3 +14,4 @@ resource "random_string" "otept" { length = 10 }
 resource "random_string" "sasfj" { length = 10 }
 resource "random_string" "jjkpg" { length = 10 }
 resource "random_string" "akarg" { length = 10 }
+resource "random_string" "jqmxm" { length = 10 }
